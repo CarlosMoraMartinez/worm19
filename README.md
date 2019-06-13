@@ -1,5 +1,5 @@
 # worm19
-This repository has been created for my Master's dissertation. It contains all the tools that have been used for the analysis of the regulatory dopaminergic signature of *C. elegans*.
+This repository has been created for my Master's dissertation in Bioinformatics. It contains all the tools that have been used for the analysis of the regulatory dopaminergic signature of *C. elegans*.
 
 Some of the scripts are intended to be used individually, because they expect already downloaded data (the ChIP-seq scripts) or they download their own data (the Single Cell one). Most of them are intended to work as a pipeline, in this precise order:
 1. Item 1
