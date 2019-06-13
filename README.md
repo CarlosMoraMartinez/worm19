@@ -7,7 +7,7 @@ Some of the scripts are intended to be used individually, because they expect al
 3. Item 3
 
 A brief description of the scripts is provided here:
-- The folder **w18** contains the R package for the search of the selected transcription-factor binding motifs.
+- The folder **w18** contains the R package for the search of the selected transcription-factor binding motifs. Inside you can found a script **make_w18_package.R** with instructions on how to install it.
 - First, the file **Analysis_Single_Cell_Cao.R** uses the data from Cao et al. (2017) to get a list of DEG in dopaminergic neurons. It also gets lists of DEG in other neuronal types: ASE, GABAergic, RIA, SDQ/ALN/PLN and Touch receptor neurons. These gene lists are intended to be use as a control when looking for the dopaminergic signature.
 - The file **ChIP-seq_comparison.R** works with BED files downloaded from ENCODE, and loads them from the computer directly before analysing them.
 - The file **Split_multiFASTA_into_chromosomes.py** is used to split the .fna file of the WBcel235 genome version into individual .fa files, each of them corresponding to a chromosome.
