@@ -1,0 +1,13 @@
+Package: w18
+Version: 1.0
+Title: Motif Seeking Functions
+Date: 2018-09-08
+Authors@R: c(person("Erick", "Sousa", role = c("aut", "cre"), email = "e.sousa@outlook.es"), 
+	     person("Carlos", "Mora-Martinez", role = "aut"))
+Maintainter: Erick Sousa 
+Description: This package contains a set of functions for the search of enhancer regions.
+Depends: R (>= 3.5.1)
+License: Open Software License v. 3.0 (OSL-3.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
